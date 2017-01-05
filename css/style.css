@@ -1,0 +1,13 @@
+
+		body{
+			background: lightgrey;
+		}
+			div{
+				width:400px;
+				margin: auto;
+			}
+			blockquote{
+				border:3px solid white;
+				text-align: center;
+			
+			}
